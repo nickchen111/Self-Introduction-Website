@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      div.container {
+        width: 50vw;
+        height: 300px;
+        border: 2px solid green;
+        display: flex;
+      }
+      div.item {
+        border: 2px solid red;
+        /* 這裡0代表他不會去收縮 */
+        flex: 1 0 500px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="item"></div>
+    </div>
+  </body>
+</html>
