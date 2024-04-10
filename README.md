@@ -16,7 +16,7 @@
       <img height="200" width="800" src="https://github.com/nickchen111/Self-Introduction-Website/blob/main/img/%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A%E7%B6%B2%E7%AB%994.png">
   *圍棋網站
 
-      <img height="400" width="800" src="https://github.com/nickchen111/Self-Introduction-Website/blob/main/img/%E5%9C%8D%E6%A3%8B%E7%B6%B2%E7%AB%99.png">
+  <img height="400" width="800" src="https://github.com/nickchen111/Self-Introduction-Website/blob/main/img/%E5%9C%8D%E6%A3%8B%E7%B6%B2%E7%AB%99.png">
 
 # English Version
 * Website Introduction:
