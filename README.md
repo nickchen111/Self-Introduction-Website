@@ -23,13 +23,15 @@
   * Created basic webpage structure using HTML, then used CSS to enhance the front-end appearance and create a personal website (with links to two other websites in the nav).
   * The appearance of the website features a special effect created by continuously floating bubbles.
   * Personal Website Screens:
-    * ![Personal Website 1](https://github.com/nickchen111/Self-Introduction-Website/blob/main/img/%E5%80%8B%E4%BA%BA%E7%B6%B2%E7%AB%991.png)
-    * ![Personal Website 2](https://github.com/nickchen111/Self-Introduction-Website/blob/main/img/%E5%80%8B%E4%BA%BA%E7%B6%B2%E7%AB%992.png)
-    * ![Personal Website 3](https://github.com/nickchen111/Self-Introduction-Website/blob/main/img/%E5%80%8B%E4%BA%BA%E7%B6%B2%E7%AB%993.png)
+    
+      ![Personal Website 1](https://github.com/nickchen111/Self-Introduction-Website/blob/main/img/%E5%80%8B%E4%BA%BA%E7%B6%B2%E7%AB%991.png)
+      ![Personal Website 2](https://github.com/nickchen111/Self-Introduction-Website/blob/main/img/%E5%80%8B%E4%BA%BA%E7%B6%B2%E7%AB%992.png)
+      ![Personal Website 3](https://github.com/nickchen111/Self-Introduction-Website/blob/main/img/%E5%80%8B%E4%BA%BA%E7%B6%B2%E7%AB%993.png)
   * Japanese Website Screens:
-    * ![Japanese Website 1](https://github.com/nickchen111/Self-Introduction-Website/blob/main/img/%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A%E7%B6%B2%E7%AB%991.png)
-    * ![Japanese Website 2](https://github.com/nickchen111/Self-Introduction-Website/blob/main/img/%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A%E7%B6%B2%E7%AB%992.png)
-    * ![Japanese Website 3](https://github.com/nickchen111/Self-Introduction-Website/blob/main/img/%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A%E7%B6%B2%E7%AB%993.png)
-    * ![Japanese Website 4](https://github.com/nickchen111/Self-Introduction-Website/blob/main/img/%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A%E7%B6%B2%E7%AB%994.png)
+    
+      ![Japanese Website 1](https://github.com/nickchen111/Self-Introduction-Website/blob/main/img/%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A%E7%B6%B2%E7%AB%991.png)
+      ![Japanese Website 2](https://github.com/nickchen111/Self-Introduction-Website/blob/main/img/%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A%E7%B6%B2%E7%AB%992.png)
+      ![Japanese Website 3](https://github.com/nickchen111/Self-Introduction-Website/blob/main/img/%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A%E7%B6%B2%E7%AB%993.png)
+      ![Japanese Website 4](https://github.com/nickchen111/Self-Introduction-Website/blob/main/img/%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A%E7%B6%B2%E7%AB%994.png)
   * Go Website Screen:
-    * ![Go Website](https://github.com/nickchen111/Self-Introduction-Website/blob/main/img/%E5%9C%8D%E6%A3%8B%E7%B6%B2%E7%AB%99.png)
+      ![Go Website](https://github.com/nickchen111/Self-Introduction-Website/blob/main/img/%E5%9C%8D%E6%A3%8B%E7%B6%B2%E7%AB%99.png)
